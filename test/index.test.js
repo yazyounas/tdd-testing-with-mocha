@@ -17,7 +17,7 @@ describe('Calculate', () => {
     });
     it(' it will test if the output of 3! is equal to 6', () => {
       //setup
-      const expectedResult = 6;
+      const expectedResult = 3;
 
       //Excercise
       const inputNumbers = 3;
